@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracking.Core", "Tracking.Core\Tracking.Core.csproj", "{0E97788D-6CC2-4BD1-8A97-AE8C3603C6A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracking.Infrastructure", "Tracking.Infrastructure\Tracking.Infrastructure.csproj", "{F7F762ED-9D32-4764-9131-BCDBD9E901EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracking.Core.Tests", "Tracking.Core.Tests\Tracking.Core.Tests.csproj", "{10F70067-164C-45B7-9239-765CA18D648B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E97788D-6CC2-4BD1-8A97-AE8C3603C6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E97788D-6CC2-4BD1-8A97-AE8C3603C6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E97788D-6CC2-4BD1-8A97-AE8C3603C6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E97788D-6CC2-4BD1-8A97-AE8C3603C6A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F762ED-9D32-4764-9131-BCDBD9E901EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F762ED-9D32-4764-9131-BCDBD9E901EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F762ED-9D32-4764-9131-BCDBD9E901EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F762ED-9D32-4764-9131-BCDBD9E901EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F70067-164C-45B7-9239-765CA18D648B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F70067-164C-45B7-9239-765CA18D648B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F70067-164C-45B7-9239-765CA18D648B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F70067-164C-45B7-9239-765CA18D648B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
